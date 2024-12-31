@@ -10,7 +10,7 @@ Many biotechnological applications rely on microbial communities. Designing opti
 
 ### Others
 ----
-Accessions for publicly available genomic data are given in the Supplementary Tables. More codes, results and media are available at Github (https://github.com/allons42/eBiota) and Zenodo (https://zenodo.org/records/13895108). Sequencing data of 94 bacterial strains and R. solanacearum QL-Rs1115 have been deposited in Zenodo (https://zenodo.org/records/13764123). Raw sequencing data of the 25 in vitro culture samples are available at the National Center for Biotechnology Information database (accession number: PRJNA1163256).
+More codes, results and media are available at Github (https://github.com/allons42/eBiota) and Zenodo (https://zenodo.org/records/13895108). Sequencing data of 94 bacterial strains and R. solanacearum QL-Rs1115 have been deposited in Zenodo (https://zenodo.org/records/13764123). Raw sequencing data of the 25 in vitro culture samples are available at the National Center for Biotechnology Information database (accession number: PRJNA1163256).
 
 ### Citation:
 ----
