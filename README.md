@@ -14,7 +14,7 @@ Accessions for publicly available genomic data are given in the Supplementary Ta
 
 ### Citation:
 ----
-Ab initio design of microbial communities from large-scale seed pools using deep learning and rapid optimization
+<i>Ab initio</i> design of microbial communities from large-scale seed pools using deep learning and rapid optimization
 
 ### Contact:
 ----
