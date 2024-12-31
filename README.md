@@ -10,8 +10,8 @@ Many biotechnological applications rely on microbial communities. Designing opti
 ## Others
 More codes, results and media are available at Github (https://github.com/allons42/eBiota) and Zenodo (https://zenodo.org/records/13895108). Sequencing data of 94 bacterial strains and <i>R. solanacearum </i> QL-Rs1115 have been deposited in Zenodo (https://zenodo.org/records/13764123). Raw sequencing data of the 25 in vitro culture samples are available at the National Center for Biotechnology Information database (accession number: PRJNA1163256).
 
-## Citation:
+## Citation
 <i>Ab initio</i> design of microbial communities from large-scale seed pools using deep learning and rapid optimization
 
-## Contact:
+## Contact
 If there are any problems, feel free to raise issues or ask us: jiangxiaoqing357@126.com, jhhou@pku.edu.cn, haoserzhang7733@gmail.com or hqzhu@pku.edu.cn.
